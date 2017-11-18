@@ -1,0 +1,9 @@
+C:\Users\nmanp\Desktop\EmployerRecord\EmployerRecord.Provider\bin\Debug\EmployerRecord.Provider.dll
+C:\Users\nmanp\Desktop\EmployerRecord\EmployerRecord.Provider\bin\Debug\EmployerRecord.Provider.pdb
+C:\Users\nmanp\Desktop\EmployerRecord\EmployerRecord.Provider\bin\Debug\EmployerRecord.Common.dll
+C:\Users\nmanp\Desktop\EmployerRecord\EmployerRecord.Provider\bin\Debug\EmployerRecord.Model.dll
+C:\Users\nmanp\Desktop\EmployerRecord\EmployerRecord.Provider\bin\Debug\EmployerRecord.Common.pdb
+C:\Users\nmanp\Desktop\EmployerRecord\EmployerRecord.Provider\bin\Debug\EmployerRecord.Model.pdb
+C:\Users\nmanp\Desktop\EmployerRecord\EmployerRecord.Provider\obj\Debug\EmployerRecord.Provider.csprojResolveAssemblyReference.cache
+C:\Users\nmanp\Desktop\EmployerRecord\EmployerRecord.Provider\obj\Debug\EmployerRecord.Provider.dll
+C:\Users\nmanp\Desktop\EmployerRecord\EmployerRecord.Provider\obj\Debug\EmployerRecord.Provider.pdb

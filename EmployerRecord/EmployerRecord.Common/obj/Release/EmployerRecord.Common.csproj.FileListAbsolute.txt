@@ -1,0 +1,4 @@
+C:\Users\nmanp\Desktop\EmployerRecord\EmployerRecord.Common\bin\Release\EmployerRecord.Common.dll
+C:\Users\nmanp\Desktop\EmployerRecord\EmployerRecord.Common\bin\Release\EmployerRecord.Common.pdb
+C:\Users\nmanp\Desktop\EmployerRecord\EmployerRecord.Common\obj\Release\EmployerRecord.Common.dll
+C:\Users\nmanp\Desktop\EmployerRecord\EmployerRecord.Common\obj\Release\EmployerRecord.Common.pdb

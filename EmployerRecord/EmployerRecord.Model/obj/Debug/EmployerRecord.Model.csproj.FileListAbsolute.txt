@@ -1,0 +1,5 @@
+C:\Users\nmanp\Desktop\EmployerRecord\EmployerRecord.Model\bin\Debug\EmployerRecord.Model.dll
+C:\Users\nmanp\Desktop\EmployerRecord\EmployerRecord.Model\bin\Debug\EmployerRecord.Model.pdb
+C:\Users\nmanp\Desktop\EmployerRecord\EmployerRecord.Model\obj\Debug\EmployerRecord.Model.dll
+C:\Users\nmanp\Desktop\EmployerRecord\EmployerRecord.Model\obj\Debug\EmployerRecord.Model.pdb
+C:\Users\nmanp\Desktop\EmployerRecord\EmployerRecord.Model\obj\Debug\EmployerRecord.Model.csprojResolveAssemblyReference.cache
